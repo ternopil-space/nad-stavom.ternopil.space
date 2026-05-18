@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="uk">
+	<head>
+		<meta charset="utf-8" />
+		<title>Над Ставом — паб біля Тернопільського ставу</title>
+		<base href="/" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<script>
+			try {
+				const storedMode = localStorage.getItem('app-mode');
+				const preferredMode =
+					storedMode === 'dark' || storedMode === 'light'
+						? storedMode
+						: window.matchMedia('(prefers-color-scheme: dark)').matches
+							? 'dark'
+							: 'light';
+				document.documentElement.setAttribute('data-mode', preferredMode);
+			} catch {}
+		</script>
+
+		<meta name="description" content="Над Ставом — паб біля Тернопільського ставу на вулиці Білецька 33 у Тернополі. Пиво, їжа, гриль, закуски. Відкрито 11:00–23:00. Забронюйте столик за телефоном." />
+		<meta name="keywords" content="Над Ставом, паб, Тернопіль, пиво, гриль, закуски, їжа, Білецька 33" />
+		<meta name="author" content="Над Ставом" />
+		<meta name="robots" content="index, follow" />
+		<meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)" />
+		<meta name="theme-color" content="#0f172a" media="(prefers-color-scheme: dark)" />
+
+		<meta itemprop="name" content="Над Ставом" />
+		<meta itemprop="description" content="Паб біля Тернопільського ставу" />
+		<meta itemprop="image" content="/logo.webp" />
+
+		<meta property="og:type" content="website" />
+		<meta property="og:site_name" content="Над Ставом" />
+		<meta property="og:locale" content="uk_UA" />
+		<meta property="og:url" content="https://nad-stavom.ternopil.space/" />
+		<meta property="og:title" content="Над Ставом — паб біля Тернопільського ставу" />
+		<meta property="og:description" content="Паб у Тернополі на Білецькій 33. Пиво, їжа, гриль, закуски. Забронюйте столик." />
+		<meta property="og:image" content="/logo.webp" />
+
+		<meta name="twitter:card" content="summary_large_image" />
+		<meta name="twitter:title" content="Над Ставом — паб біля Тернопільського ставу" />
+		<meta name="twitter:description" content="Паб у Тернополі. Пиво, їжа, гриль, закуски. Відкрито 11:00–23:00." />
+		<meta name="twitter:image" content="/logo.webp" />
+		<meta name="twitter:image:src" content="/logo.webp" />
+
+		<link rel="canonical" href="https://nad-stavom.ternopil.space/" />
+		<link rel="icon" type="image/webp" href="favicon.webp" />
+
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link
+			href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+			rel="stylesheet"
+		/>
+		<link
+			href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined"
+			rel="stylesheet"
+		/>
+	</head>
+	<body>
+		<app-root></app-root>
+	</body>
+</html>

@@ -1,0 +1,50 @@
+[
+	{
+		"name": "Їжа",
+		"description": "Основне меню",
+		"parent": "",
+		"slug": "food"
+	},
+	{
+		"name": "Напої",
+		"description": "Пиво, м'які напої та алкоголь",
+		"parent": "",
+		"slug": "drinks"
+	},
+	{
+		"name": "Закуски до пива",
+		"description": "Легкі закуски та снеки до пива",
+		"parent": "food",
+		"slug": "beer-snacks"
+	},
+	{
+		"name": "Гриль",
+		"description": "М'ясо та рибу на гарилі зі спеціями",
+		"parent": "food",
+		"slug": "grill"
+	},
+	{
+		"name": "Основні страви",
+		"description": "Гаряче м'ясо, курка та рибу",
+		"parent": "food",
+		"slug": "main-dishes"
+	},
+	{
+		"name": "Комплексні обіди",
+		"description": "Суп, гарнір, салат, напиток",
+		"parent": "food",
+		"slug": "lunches"
+	},
+	{
+		"name": "Пиво",
+		"description": "Свіже пиво від крану та в пляшках",
+		"parent": "drinks",
+		"slug": "beer"
+	},
+	{
+		"name": "Безалкогольні напої",
+		"description": "Вода, коли та соки",
+		"parent": "drinks",
+		"slug": "soft-drinks"
+	}
+]
