@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nad-stavom.ternopil.space/sitemap.xml
