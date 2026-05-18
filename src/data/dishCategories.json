@@ -1,49 +1,49 @@
 [
 	{
 		"name": "Їжа",
-		"description": "Основне меню",
+		"description": "Публічно згадані напрямки кухні",
 		"parent": "",
 		"slug": "food"
 	},
 	{
 		"name": "Напої",
-		"description": "Пиво, м'які напої та алкоголь",
+		"description": "Пиво та безалкогольні напої",
 		"parent": "",
 		"slug": "drinks"
 	},
 	{
 		"name": "Закуски до пива",
-		"description": "Легкі закуски та снеки до пива",
+		"description": "Снеки та страви, які публічно пов'язують із пабним форматом",
 		"parent": "food",
 		"slug": "beer-snacks"
 	},
 	{
-		"name": "Гриль",
-		"description": "М'ясо та рибу на гарилі зі спеціями",
+		"name": "Гриль і м'ясо",
+		"description": "Гриль, стейки, м'ясо та риба з відкритих описів",
 		"parent": "food",
 		"slug": "grill"
 	},
 	{
 		"name": "Основні страви",
-		"description": "Гаряче м'ясо, курка та рибу",
+		"description": "Основні страви української та європейської кухні",
 		"parent": "food",
 		"slug": "main-dishes"
 	},
 	{
 		"name": "Комплексні обіди",
-		"description": "Суп, гарнір, салат, напиток",
+		"description": "Публічно згаданий формат буденних обідів",
 		"parent": "food",
 		"slug": "lunches"
 	},
 	{
 		"name": "Пиво",
-		"description": "Свіже пиво від крану та в пляшках",
+		"description": "Багато видів пива, зокрема публічно згадане Опілля",
 		"parent": "drinks",
 		"slug": "beer"
 	},
 	{
 		"name": "Безалкогольні напої",
-		"description": "Вода, коли та соки",
+		"description": "Напої до їжі та обідів",
 		"parent": "drinks",
 		"slug": "soft-drinks"
 	}

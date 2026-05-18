@@ -32,7 +32,7 @@ interface DishDetail {
 export const fallbackArticles = articlesData as Article[];
 export const fallbackDiscounts = discountsData as Discount[];
 export const fallbackDishCategories = dishCategoriesData as DishCategory[];
-export const fallbackDishes = (dishesData as Dish[]).map((dish) => ({
+export const fallbackDishes = (dishesData as unknown as Dish[]).map((dish) => ({
 	...dish,
 	image: dish.image || `/dish/${dish.slug}.webp`,
 }));

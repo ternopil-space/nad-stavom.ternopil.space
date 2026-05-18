@@ -1,106 +1,86 @@
 {
 	"hero": {
-		"title": "Loyalty program",
-		"subtitle": "More visits, more benefits",
-		"description": "A simple loyalty program for regular guests who visit the restaurant, book rooms, enjoy coffee, use the spa, or celebrate special moments with us."
+		"title": "Інформація для постійних гостей",
+		"subtitle": "Актуальні умови потрібно уточнювати",
+		"description": "Публічно підтвердженої програми лояльності Над Ставом не знайдено. Цей розділ залишено для майбутніх пропозицій, бонусів або новин для регулярних гостей."
 	},
 	"howItWorks": {
-		"title": "How it works",
+		"title": "Як перевірити актуальні пропозиції",
 		"steps": [
 			{
-				"title": "Join the program",
-				"description": "Ask the team to add you to the loyalty program or join through our contact channels."
+				"title": "Зв'яжіться із закладом",
+				"description": "Уточніть активні пропозиції за телефоном, у Facebook або Instagram @nadsstavom."
 			},
 			{
-				"title": "Visit, book, or order",
-				"description": "Use restaurant, hotel, cafe, spa, event, or takeaway services as usual."
+				"title": "Питайте перед замовленням",
+				"description": "Акції, бонуси або спеціальні умови можуть залежати від дня, меню і наявності."
 			},
 			{
-				"title": "Receive guest benefits",
-				"description": "Get rewards, personal offers, birthday bonuses, and special conditions when available."
+				"title": "Підтверджуйте умови",
+				"description": "Перед бронюванням події або великого столика погодьте меню, час і формат."
 			}
 		]
 	},
 	"benefits": {
-		"title": "Guest benefits",
+		"title": "Що може бути корисно гостям",
 		"items": [
-			"Birthday bonus",
-			"Coffee or dessert gift",
-			"Special offers for regular guests",
-			"Room upgrade when available",
-			"Spa discount for returning guests",
-			"Early access to events",
-			"Family and group visit benefits"
+			"Оновлення про комплексні обіди",
+			"Інформація про футбольні трансляції",
+			"Умови бронювання столика",
+			"Деталі святкувань і приватних подій",
+			"Актуальна наявність пива і страв"
 		]
 	},
 	"earnRewards": {
-		"title": "Ways to earn rewards",
+		"title": "Публічно підтверджені приводи звернутися",
 		"items": [
-			"Restaurant visits",
-			"Hotel stays",
-			"Coffee orders",
-			"Spa bookings",
-			"Event reservations",
-			"Referring friends",
-			"Seasonal promotions"
+			"Візит у паб",
+			"Комплексний обід",
+			"Бронювання столика",
+			"Перегляд матчу",
+			"Святкування або приватна подія",
+			"Їжа з собою або доставка за наявності"
 		]
 	},
 	"levels": {
-		"title": "Loyalty levels",
+		"title": "Рівні програми",
 		"items": [
 			{
-				"name": "Guest",
-				"description": "The starting level for new guests who want to receive simple offers and updates.",
+				"name": "Не підтверджено",
+				"description": "Публічні джерела не містять підтвердженої багаторівневої програми лояльності.",
 				"benefits": [
-					"Access to active offers",
-					"Birthday reminder bonus",
-					"Invitations to selected events"
-				]
-			},
-			{
-				"name": "Regular guest",
-				"description": "A level for returning guests who visit more often and use several services.",
-				"benefits": [
-					"Personal restaurant or cafe offers",
-					"Spa or room discount when available",
-					"Priority information about seasonal promotions"
-				]
-			},
-			{
-				"name": "VIP guest",
-				"description": "A special level for loyal guests, frequent visitors, and private event clients.",
-				"benefits": [
-					"Personal conditions for selected services",
-					"Early access to private events",
-					"Special attention for birthdays and family celebrations"
+					"Актуальні умови потрібно уточнювати напряму",
+					"Не варто вважати бонуси гарантованими",
+					"Нові пропозиції можуть з'являтися у соцмережах"
 				]
 			}
 		]
 	},
 	"specialDates": {
-		"title": "Birthday and special dates",
-		"description": "Guests can receive small gifts, discounts, or personal offers for birthdays, anniversaries, family celebrations, and other important dates.",
+		"title": "Святкування і дати",
+		"description": "Публічно згадуються святкування і спеціальні події. Умови для дня народження або групи потрібно погоджувати окремо.",
 		"items": [
-			"Birthday dessert or drink",
-			"Anniversary offer",
-			"Family celebration bonus",
-			"Special conditions for private events"
+			"Кількість гостей",
+			"Меню і напої",
+			"Час бронювання",
+			"Тераса або зала",
+			"Перегляд матчу за потреби"
 		]
 	},
 	"terms": {
-		"title": "Simple terms",
+		"title": "Що уточнювати",
 		"items": [
-			"Benefits may depend on availability",
-			"Offers cannot always be combined",
-			"Some rewards may require advance reservation",
-			"Room upgrades depend on free room availability",
-			"The team can explain current active offers before your visit"
+			"Основний телефон власника",
+			"Актуальне меню і ціни",
+			"Наявність доставки",
+			"Правила бронювання",
+			"Місткість для подій"
 		]
 	},
 	"cta": {
-		"title": "Join the loyalty program",
-		"description": "Ask our team about current loyalty benefits, active offers, and the easiest way to join.",
-		"label": "Ask about loyalty",
+		"title": "Уточнити умови",
+		"description": "Перевірте актуальні пропозиції, години, бронювання і події перед візитом.",
+		"label": "Перейти до контактів",
 		"href": "/socials"
 	}
 }

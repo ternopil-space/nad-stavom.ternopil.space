@@ -1,17 +1,17 @@
 [
 	{
-		"slug": "horeca-bar-service-photo",
+		"slug": "nad-stavom-pub-atmosphere",
 		"src": "gallery/demo-1.webp",
-		"alt": "Horeca bar service photo"
+		"alt": "Атмосфера паба Над Ставом"
 	},
 	{
-		"slug": "horeca-hotel-reception-photo-1",
+		"slug": "nad-stavom-food-and-drinks",
 		"src": "gallery/demo-2.webp",
-		"alt": "Horeca hotel reception photo"
+		"alt": "Їжа та напої у форматі паба Над Ставом"
 	},
 	{
-		"slug": "horeca-hotel-reception-photo-2",
+		"slug": "nad-stavom-terrace-reference",
 		"src": "gallery/demo-3.webp",
-		"alt": "Horeca hotel reception photo"
+		"alt": "Візуальний референс літнього майданчика Над Ставом"
 	}
 ]
